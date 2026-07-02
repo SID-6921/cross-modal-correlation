@@ -1,0 +1,9 @@
+{
+  "device": "cuda",
+  "train_time_s": 177.2069718837738,
+  "train_loss_final": 1.9202827388035464,
+  "linear_probe_accuracy": 0.9919999837875366,
+  "retrieval_top1_accuracy": 0.9909999966621399,
+  "retrieval_top5_accuracy": 0.9929999709129333,
+  "retrieval_pool_size": 1000
+}

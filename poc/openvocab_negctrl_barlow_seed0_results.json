@@ -1,0 +1,12 @@
+{
+  "objective": "barlow",
+  "seed": 0,
+  "condition": "mismatched_pairs_negative_control",
+  "vocab_size": 3476,
+  "retrieval_pool_size": 5000,
+  "recall_at_1": 0.002,
+  "recall_at_5": 0.006,
+  "recall_at_10": 0.012,
+  "train_time_s": 109.92720651626587,
+  "train_loss_final": 125.95029031076739
+}

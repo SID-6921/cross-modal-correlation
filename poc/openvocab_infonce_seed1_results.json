@@ -1,0 +1,13 @@
+{
+  "objective": "infonce",
+  "seed": 1,
+  "vocab_size": 3476,
+  "n_train_images": 6000,
+  "n_test_images": 1000,
+  "retrieval_pool_size": 5000,
+  "recall_at_1": 0.095,
+  "recall_at_5": 0.286,
+  "recall_at_10": 0.41,
+  "train_time_s": 110.65077257156372,
+  "train_loss_final": 1.3563377870026456
+}

@@ -1,0 +1,10 @@
+{
+  "device": "cuda",
+  "experiment": "contrastive_infonce_baseline_hard",
+  "train_time_s": 169.82508087158203,
+  "train_loss_final": 2.6014768460876923,
+  "linear_probe_accuracy": 0.9892999529838562,
+  "retrieval_top1_accuracy": 0.9089999794960022,
+  "retrieval_top5_accuracy": 0.984000027179718,
+  "retrieval_pool_size": 1000
+}

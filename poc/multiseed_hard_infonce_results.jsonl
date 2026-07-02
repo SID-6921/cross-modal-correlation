@@ -1,0 +1,5 @@
+{"objective": "infonce", "seed": 0, "linear_probe_accuracy": 0.9893999695777893, "retrieval_top1_accuracy": 0.9919999837875366, "retrieval_top5_accuracy": 0.9929999709129333, "train_time_s": 163.10749411582947}
+{"objective": "infonce", "seed": 1, "linear_probe_accuracy": 0.9902999997138977, "retrieval_top1_accuracy": 0.8500000238418579, "retrieval_top5_accuracy": 0.9900000095367432, "train_time_s": 166.0771324634552}
+{"objective": "infonce", "seed": 2, "linear_probe_accuracy": 0.9888999462127686, "retrieval_top1_accuracy": 0.9860000014305115, "retrieval_top5_accuracy": 0.9900000095367432, "train_time_s": 164.78075909614563}
+{"objective": "infonce", "seed": 3, "linear_probe_accuracy": 0.9896999597549438, "retrieval_top1_accuracy": 0.9929999709129333, "retrieval_top5_accuracy": 0.9940000176429749, "train_time_s": 164.494637966156}
+{"objective": "infonce", "seed": 4, "linear_probe_accuracy": 0.9891999959945679, "retrieval_top1_accuracy": 0.9909999966621399, "retrieval_top5_accuracy": 0.9919999837875366, "train_time_s": 168.8486304283142}

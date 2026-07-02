@@ -1,0 +1,8 @@
+{
+  "device": "cuda",
+  "experiment": "negative_control_hard_random_mismatched_pairs",
+  "train_time_s": 180.89134740829468,
+  "train_loss_final": 53.65536840638118,
+  "linear_probe_accuracy_mismatched": 0.17000000178813934,
+  "linear_probe_accuracy_real_experiment_for_comparison": 0.992
+}

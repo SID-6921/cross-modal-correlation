@@ -1,0 +1,10 @@
+{
+  "diag_mean": 0.9212664365768433,
+  "diag_std": 0.022968877106904984,
+  "diag_min": 0.8775360584259033,
+  "diag_max": 0.9503060579299927,
+  "offdiag_mean_abs": 0.1721249520778656,
+  "offdiag_std": 0.2887166142463684,
+  "offdiag_max_abs": 0.9483006596565247,
+  "separation_ratio_diag_over_offdiag": 5.352311611175537
+}

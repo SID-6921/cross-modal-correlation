@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mnist_data/
+flickr8k_images/
+flickr8k_text/
+free-spoken-digit-dataset-master/
+*.zip

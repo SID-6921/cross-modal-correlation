@@ -1,0 +1,13 @@
+{
+  "objective": "barlow",
+  "seed": 1,
+  "vocab_size": 3476,
+  "n_train_images": 6000,
+  "n_test_images": 1000,
+  "retrieval_pool_size": 5000,
+  "recall_at_1": 0.014,
+  "recall_at_5": 0.058,
+  "recall_at_10": 0.103,
+  "train_time_s": 108.99049210548401,
+  "train_loss_final": 14.698919932047525
+}

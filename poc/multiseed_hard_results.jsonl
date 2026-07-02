@@ -1,0 +1,5 @@
+{"seed": 0, "linear_probe_accuracy": 0.991599977016449, "retrieval_top1_accuracy": 0.9929999709129333, "retrieval_top5_accuracy": 0.9940000176429749, "train_time_s": 186.43563508987427}
+{"seed": 2, "linear_probe_accuracy": 0.9917999505996704, "retrieval_top1_accuracy": 0.9900000095367432, "retrieval_top5_accuracy": 0.9919999837875366, "train_time_s": 183.60705590248108}
+{"seed": 4, "linear_probe_accuracy": 0.9917999505996704, "retrieval_top1_accuracy": 0.9879999756813049, "retrieval_top5_accuracy": 0.9879999756813049, "train_time_s": 184.959219455719}
+{"seed": 1, "linear_probe_accuracy": 0.9922999739646912, "retrieval_top1_accuracy": 0.984000027179718, "retrieval_top5_accuracy": 0.9860000014305115, "train_time_s": 186.96811318397522}
+{"seed": 3, "linear_probe_accuracy": 0.9923999905586243, "retrieval_top1_accuracy": 0.9950000047683716, "retrieval_top5_accuracy": 0.9950000047683716, "train_time_s": 185.76702213287354}
