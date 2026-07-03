@@ -1,0 +1,14 @@
+{
+  "objective": "infonce",
+  "seed": 0,
+  "num_classes": 100,
+  "embed_dim": 64,
+  "design": "MNIST digit x rotation-bucket pseudo-classes (domain-controlled), embed_dim ablation",
+  "linear_probe_accuracy": 0.8237999677658081,
+  "retrieval_top1_accuracy": 0.6019999980926514,
+  "retrieval_top5_accuracy": 0.9380000233650208,
+  "train_time_s": 210.60663485527039,
+  "chance_probe": 0.01,
+  "chance_top1": 0.01,
+  "chance_top5": 0.05
+}

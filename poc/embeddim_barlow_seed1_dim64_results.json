@@ -1,0 +1,14 @@
+{
+  "objective": "barlow",
+  "seed": 1,
+  "num_classes": 100,
+  "embed_dim": 64,
+  "design": "MNIST digit x rotation-bucket pseudo-classes (domain-controlled), embed_dim ablation",
+  "linear_probe_accuracy": 0.2881999909877777,
+  "retrieval_top1_accuracy": 0.10400000214576721,
+  "retrieval_top5_accuracy": 0.18400000035762787,
+  "train_time_s": 209.05356621742249,
+  "chance_probe": 0.01,
+  "chance_top1": 0.01,
+  "chance_top5": 0.05
+}
