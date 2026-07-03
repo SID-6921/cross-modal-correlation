@@ -1,0 +1,8 @@
+{
+  "objective": "barlow",
+  "seed": 0,
+  "backbone": "jointly-trained",
+  "recall_at_1": 0.0190,
+  "recall_at_5": 0.0530,
+  "recall_at_10": 0.0850
+}

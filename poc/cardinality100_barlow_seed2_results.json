@@ -1,0 +1,12 @@
+{
+  "objective": "barlow",
+  "seed": 2,
+  "num_classes": 100,
+  "linear_probe_accuracy": 0.04969999939203262,
+  "retrieval_top1_accuracy": 0.03200000151991844,
+  "retrieval_top5_accuracy": 0.050999999046325684,
+  "train_time_s": 99.45544743537903,
+  "chance_probe": 0.01,
+  "chance_top1": 0.01,
+  "chance_top5": 0.05
+}

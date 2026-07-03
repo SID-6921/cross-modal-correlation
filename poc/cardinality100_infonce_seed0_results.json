@@ -1,0 +1,12 @@
+{
+  "objective": "infonce",
+  "seed": 0,
+  "num_classes": 100,
+  "linear_probe_accuracy": 0.31439998745918274,
+  "retrieval_top1_accuracy": 0.22100000083446503,
+  "retrieval_top5_accuracy": 0.39399999380111694,
+  "train_time_s": 99.38318157196045,
+  "chance_probe": 0.01,
+  "chance_top1": 0.01,
+  "chance_top5": 0.05
+}
